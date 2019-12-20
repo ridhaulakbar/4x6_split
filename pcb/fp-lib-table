@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name promicro_library)(type KiCad)(uri ${KIPRJMOD}/libraries/ProMicroKiCad-master/promicro_library)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/libraries/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name kicad_lib_tmk-master)(type KiCad)(uri ${KIPRJMOD}/libraries/kicad_lib_tmk-master)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/libraries/Keebio-Parts.pretty-master)(options "")(descr ""))
+)
